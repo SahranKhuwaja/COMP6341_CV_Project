@@ -1,4 +1,4 @@
-# CV-Project---OCR
+# COMP 6341 CV Project---OCR
 
 **Computer Vision Course Project (COMP 425 GG,COMP 6341 GG 2224) **
 
